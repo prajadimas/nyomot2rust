@@ -38,9 +38,14 @@ Belajar ngeformat output service jadi JSON
 Coba nyomot dari [Examples](https://github.com/actix/examples/blob/master/json/json/src/main.rs):
 - Output JSON `{ message: 'SUCCESS'}` (OK)
 
+## Not Found Error
+
+Belajar membuat handling default route yang tidak ada
+
+Coba nyomot dari [Error 404 unfound routes Actix-web](https://users.rust-lang.org/t/error-404-unfound-routes-actix-web/46484/3)
+- `{ message: NOT FOUND }` (OK)
 
 Selanjutnya nyomot apa?
-- Not Found Error
 - Handling Error(s)
 - Upload file
 - Websocket

@@ -1,5 +1,5 @@
 [package]
-name = "webservertry"
+name = "nyomot2rust"
 version = "0.1.0"
 authors = ["prajadimas <dmspraja2105@gmail.com>"]
 edition = "2018"
