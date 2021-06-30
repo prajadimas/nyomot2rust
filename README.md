@@ -45,6 +45,13 @@ Belajar membuat handling default route yang tidak ada
 Coba nyomot dari [Error 404 unfound routes Actix-web](https://users.rust-lang.org/t/error-404-unfound-routes-actix-web/46484/3)
 - `{ message: NOT FOUND }` (OK)
 
+## HTML Serve
+
+Belajar mengeluarkan file html
+
+Coba nyomot dari [What's the easiest way to get the HTML output of an actix-web endpoint handler to be rendered properly?](https://stackoverflow.com/questions/53182250/whats-the-easiest-way-to-get-the-html-output-of-an-actix-web-endpoint-handler-t)
+- GET `/docs` (OK)
+
 Selanjutnya nyomot apa?
 - Handling Error(s)
 - Upload file
