@@ -9,4 +9,7 @@ edition = "2018"
 [dependencies]
 actix-web = "3"
 actix-files = "0.5.0"
-serde = "1.0.105"
+jsonwebtoken = "7.2.0"
+chrono = "0.3"
+serde = { version = "1.0.105", features = ["derive"] }
+uuid = { version = "0.8", features = ["serde", "v4"] }

@@ -2,7 +2,7 @@
 
 Belajar nyomot2 kodingan rust.
 
-## actix_web
+## actix-web
 
 Belajar membuat service(s) pakai [Actix Web](https://github.com/actix/actix-web).
 
@@ -52,7 +52,22 @@ Belajar mengeluarkan file html
 Coba nyomot dari [What's the easiest way to get the HTML output of an actix-web endpoint handler to be rendered properly?](https://stackoverflow.com/questions/53182250/whats-the-easiest-way-to-get-the-html-output-of-an-actix-web-endpoint-handler-t)
 - GET `/docs` (OK)
 
+## UUID
+
+Belajar buat uuid
+
+Coba nyomot dari Crate [uuid](https://docs.rs/uuid/0.8.2/uuid/)
+- GET `/uuid` (OK)
+
+## JWT
+
+Belajar buat token JWT
+
+Coba nyomot dari [JWT authentication in Rust](https://blog.logrocket.com/jwt-authentication-in-rust/)
+- GET `/token` (OK)
+
 Selanjutnya nyomot apa?
+- Decode JWT in Authorization Header as Bearer Token
 - Handling Error(s)
 - Upload file
 - Websocket
